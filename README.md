@@ -3,8 +3,6 @@
 ## Overview of Analysis
 The purpose of this analysis was to understand if a surf shop and ice cream parlor are viable year-round buisnesses in Oahu. In order to understand at a high level if these businesses could be successful, we extracted and filtered temperature data in June and December in order to analyze if the climate was suitable for these types of businesses. You can see the summary of these extractions and filters below.
 
-![June_Summary](june_summary.PNG) ![Dec_Summary](dec_summary.PNG) 
-
 
 ## Results of Analysis
 The temperature analysis allows us to make the following points regarding the temperature in Oahu:
